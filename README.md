@@ -21,8 +21,7 @@ My expertise lies in blending **aesthetics, functionality, and user psychology**
 ---
 
 ### 🔗 Connect With Me  
-📌 **Portfolio:** [Your Portfolio Link]  
-📌 **LinkedIn:** [Your LinkedIn Profile]  
-📌 **GitHub:** [Your GitHub Profile]  
-📌 **Twitter/X:** [Your Twitter Profile]  
+📌 **Portfolio:**   https://vigneshprabhakaran.onrender.com/
+📌 **LinkedIn:** https://www.linkedin.com/in/vigneshprabhakaran/ 
+
 
