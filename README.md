@@ -1,16 +1,14 @@
-# Hi, I'm Vignesh Prabhakaran 👋
+Hi, I'm Vignesh Prabhakaran 👋
+About Me
+I'm a UI/UX Designer passionate about crafting intuitive and engaging digital experiences. I specialize in designing user-friendly interfaces that blend aesthetics with functionality, ensuring seamless interactions across web and mobile platforms.
 
-## About Me
-I'm passionate about virtual reality and love exploring the creative possibilities it offers. Currently, I'm diving deep into Unity development to create immersive experiences that push the boundaries of VR technology.
-
-## My Interests
-- Virtual Reality
-- Unity Development
-- Game Design
-
-## What I'm Doing
-- 🌱 Learning Unity to build VR experiences.
-- 💡 Exploring new ideas for immersive storytelling in VR.
-- 📚 Sharing my journey and learnings with the community.
-
-
+My Interests
+UI/UX Design
+User Research & Interaction Design
+Prototyping & Wireframing
+Design Systems & Accessibility
+What I'm Doing
+🎨 Creating user-centered designs using Figma.
+🔍 Conducting research to improve usability and accessibility.
+🚀 Exploring new design trends and innovations in UI/UX.
+📚 Sharing my knowledge and insights with the design community.
